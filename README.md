@@ -130,4 +130,6 @@ net.forward(x)
 
 そのためself(x)によってforward(x)が実行されています。
 
+やってみよう！
+
 
